@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m Kevin!
 
-- 🏫 Student at McGill University
+- 🏫 Student at the University of Chicago
 - 🌎 Montreal, QC, Canada
 - 💻 Python, Java
 - 🌱 Continuous learner
