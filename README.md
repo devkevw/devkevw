@@ -1,7 +1,7 @@
 ## 👋 Hey, I’m Kevin!
 
 - 🏫 Student at the University of Chicago
-- 🌎 Montreal, QC -> Chicago, IL
+- 🌎 Montreal, QC ➡️ Chicago, IL
 - 💻 Python, Java
 - 🌱 Continuous learner
 - 🏀 Baller, sports enthusiast
