@@ -2,7 +2,7 @@
 
 - 🏫 Student at the University of Chicago
 - 🌎 Montreal, QC ➡️ Chicago, IL
-- 💻 Python, Java
+- 💻 Python, Java, R
 - 🌱 Continuous learner
 - 🏀 Baller, sports enthusiast
 <!---
